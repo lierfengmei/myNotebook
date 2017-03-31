@@ -4,7 +4,7 @@
 
 [TOC]
 
-### 安装pyserial
+### 1. 安装pyserial
 - [下载](https://pypi.python.org/pypi/pyserial)pyserial安装包pyserial-3.3.tar.gz (md5)
 - 通过下列命令安装
  ```tar zxvf pyserial-3.3.tar.gz
@@ -22,12 +22,12 @@ Bus 002 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
  ```/dev/ttyS0          
 /dev/ttyS1          
 /dev/ttyUSB0        
-3 ports found```
+3 ports found ```
 可以看出可用的端口是/dev/ttyUSB0
 
 ### 2. 学习[pySerial 参考资料官方文档](http://pyserial.readthedocs.io/en/latest/pyserial.html)
 
-###3. 编写简单的串口通信程序
+### 3. 编写简单的串口通信程序
 
 
 

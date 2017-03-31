@@ -1,4 +1,4 @@
-#如何使用pyserial？
+#如何使用pyserial？:blush:
 -----------------------
 **Label**:  *Linux*   *python*    *SerialPort*   *Ubuntu*
 

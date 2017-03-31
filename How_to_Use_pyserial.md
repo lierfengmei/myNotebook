@@ -1,14 +1,14 @@
 # 如何使用pyserial？:blush:
-===============================
+
 **Label**:  *Linux*   *python*    *SerialPort*   *Ubuntu*
 
 
    * [如何使用pyserial？<g-emoji alias="blush" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60a.png" ios-version="6.0">😊</g-emoji>](#如何使用pyserialblush)
    * [Table of Contents](#table-of-contents)
-         * [1. 安装pyserial](#1-安装pyserial)
-         * [2. 学习<a href="http://pyserial.readthedocs.io/en/latest/pyserial.html">pySerial 参考资料官方文档</a>](#2-学习pyserial-参考资料官方文档)
-         * [3. 编写简单的串口通信程序](#3-编写简单的串口通信程序)
-            * [参考资料:](#参考资料)
+    * [1. 安装pyserial](#1-安装pyserial)
+    * [2. 学习<a href="http://pyserial.readthedocs.io/en/latest/pyserial.html">pySerial 参考资料官方文档</a>](#2-学习pyserial-参考资料官方文档)
+    * [3. 编写简单的串口通信程序](#3-编写简单的串口通信程序)
+    * [参考资料:](#参考资料)
 
 
 ### 1. 安装pyserial

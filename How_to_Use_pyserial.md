@@ -1,10 +1,10 @@
-#如何使用pyserial？:blush:
+# 如何使用pyserial？:blush:
 -----------------------
 **Label**:  *Linux*   *python*    *SerialPort*   *Ubuntu*
 
 [TOC]
 
-###1. 安装pyserial
+### 安装pyserial
 - [下载](https://pypi.python.org/pypi/pyserial)pyserial安装包pyserial-3.3.tar.gz (md5)
 - 通过下列命令安装
  ```tar zxvf pyserial-3.3.tar.gz

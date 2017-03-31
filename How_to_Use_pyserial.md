@@ -3,6 +3,11 @@
 **Label**:  *Linux*   *python*    *SerialPort*   *Ubuntu*
 
 [TOC]
+Table of Contents
+=================
+
+   * [如何使用pyserial？<g-emoji alias="blush" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60a.png" ios-version="6.0">😊</g-emoji>](#如何使用pyserialblush)
+         * [1. 安装pyserial](#1-安装pyserial)
 
 ### 1. 安装pyserial
 - [下载](https://pypi.python.org/pypi/pyserial)pyserial安装包pyserial-3.3.tar.gz (md5)
